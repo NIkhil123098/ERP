@@ -1,6 +1,6 @@
-#ERP (Enterprise Resource Planning) Sytem
+# ERP (Enterprise Resource Planning) Sytem
 
-#Installation / Setup
+# Installation / Setup
 Use below commands one by one to get started :
 
 git clone https://github.com/NIkhil123098/ERP
