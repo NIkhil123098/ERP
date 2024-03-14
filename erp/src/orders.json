@@ -1,0 +1,7 @@
+[
+    { "id": 514216, "name": "Nikhil lokesh","category":"Grocery","price":"₹ 20","stock":24,"status":"Packed","date":"2024-02-28","product":"Natraj Scale 2ft","address":"7-139,Main road mulugu,Telangana,506343","contact":"+91 6281669249","deliverydate":"03/17/2024"},
+    { "id": 815362, "name": "John Whinson","category":"Grocery","price":"₹ 20","stock":24,"status":"Shipped","date":"2024-03-10","product":"Product 2","address":"1-120,Padur,Chennai,603103","contact":"91 1234567890","deliverydate":"03/19/2024"},
+    { "id": 712594, "name": "Pavan Kalyan","category":"Electronics","price":"₹ 20000","stock":10,"status":"Ordered","date":"2024-03-13","product":"SAMSUNG 80 cm (32 Inch) HD TV","address":"4-1,Venkatapur,Hyderabad","contact":"91 7893477547","deliverydate":"04/22/2024"},
+    { "id": 371594, "name": "Raj Srikar","category":"Electrical Appliances","price":"₹ 2500","stock":12,"status":"Delivered","date":"2024-03-05","product":"Candes Brio Turbo Fan","address":"6,Bhupalpally,Telangana,566248","contact":"91 9876543210","deliverydate":"03/14/2024"}
+
+  ]

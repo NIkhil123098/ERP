@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Blue Java Banana","category":"Food","price":"₹ 20","stock":24},
+    { "id": 2, "name": "Long Handed Notebook","category":"Grocery","price":"₹ 30","stock":10},
+    { "id": 3, "name": "Long Scaled Natraj Pencil","category":"Grocery","price":"₹ 5","stock":40}
+  ]
