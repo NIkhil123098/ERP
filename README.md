@@ -1,4 +1,4 @@
-# ERP (Enterprise Resource Planning) Sytem
+# ERP (Enterprise Resource Planning) System
 
 # > Installation / Setup
 Use below commands one by one to get started :
