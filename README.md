@@ -1,6 +1,5 @@
 # ERP (Enterprise Resource Planning) System
 
-# Hosted website link ( https://erpsimplified.000webhostapp.com/ )
 
 # > Installation / Setup
 Use below commands one by one to get started :
